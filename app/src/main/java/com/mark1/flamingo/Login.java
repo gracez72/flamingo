@@ -11,7 +11,7 @@ public class Login extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
-        \\homepageButton = (CardView) findViewById(R.id.card);
+        //homepageButton = (CardView) findViewById(R.id.card);
 
     }
 }
