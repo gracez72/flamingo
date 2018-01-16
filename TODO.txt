@@ -1,0 +1,33 @@
+1. Passwords and username database
+2. Animations in Android Studio
+3. Launching the app launches a client (multithreaded)
+4. Scrolling view
+5. Loading Lines
+6. Themes
+
+BACK-END TODO:
+1. User datatype
+
+FLOW:
+1. Login page
+2. Home (cardview) (SWIPE RIGHT -> GEN INFO ) (SWIPE LEFT -> TOOLBAR W/ MESSAGES/NOTIFICATIONS) - GRACE
+	a. Diagnose (swipe)
+		A. 
+	b. Trends
+		A. Predict trends in mood with change in weather
+	c. Contact/emergency
+	d. Online resources
+		A. Google Custom Search API
+	e. Update Log - record this 
+		A. Mood
+		B. Additional Notes
+		C. Checkbox of symptoms
+		D. Positive habits
+
+	e. Suggestions
+3. General Info
+	a. Weather, Location - VIVIAN
+3. ToolBar
+	a. Settings
+	b. Messages
+	c. Calendar View
