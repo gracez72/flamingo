@@ -6,7 +6,10 @@
     android:background= "@drawable/succulent_bg"
     android:layout_height="match_parent"
     tools:context="com.mark1.flamingo.Homepage">
-    <LinearLayout
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
         android:layout_width="match_parent"
         android:layout_weight="1"
         android:layout_height="match_parent"
@@ -263,6 +266,21 @@
                 </LinearLayout>
             </android.support.v7.widget.CardView>
         </LinearLayout>
-    </LinearLayout>
+            <LinearLayout
+                android:clipToPadding="false"
+                android:layout_margin="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="horizontal">
+                <TextView android:layout_height="match_parent"
+                    android:layout_width="match_parent"
+                    android:textStyle="bold"
+                    android:textColor="#ffffff"
+                    android:text="Weather/General Info"/>
 
+            </LinearLayout>
+    </LinearLayout>
+    </ScrollView>
 </RelativeLayout>
