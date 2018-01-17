@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:orientation="vertical"
     android:layout_height="match_parent"
-    android:background="@drawable/purple_poly_bg"
+    android:background="@drawable/poly_red_bg"
     tools:context="com.mark1.flamingo.Login">
 
 
@@ -14,7 +14,7 @@
         android:layout_width="90dp"
         android:layout_height="90dp"
         android:layout_marginTop="50dp"
-        android:src="@drawable/polyking"
+        android:src="@drawable/birdlogo"
         android:gravity="center"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true" />
