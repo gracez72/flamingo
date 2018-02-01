@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Flamingo</string>
+    <string name = "com_auth0_client_id">5tlntmdyKnOGLDMLy3CLw6TlpptF1lDJ</string>
+    <string name="com_auth0_domain">gracez72.auth0.com</string>
 </resources>
